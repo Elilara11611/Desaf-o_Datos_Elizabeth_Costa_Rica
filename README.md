@@ -71,10 +71,8 @@ Este proyecto tiene como objetivo analizar los factores que influyen en la **eva
 
 ## ✍️ Autor
 
-Proyecto realizado por **[Tu Nombre]** como parte del desafío de análisis de datos en Google Colab.  
-Opcionalmente: _Incluye tu perfil de GitHub o LinkedIn aquí._
+Proyecto realizado por **[Elizabeth Lara Nuñez]** como parte del desafío de análisis de datos en Google Colab.  
 
----
 
-## 📂 Estructura del repositorio (opcional si lo subes a GitHub)
+
 
