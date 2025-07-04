@@ -1,4 +1,4 @@
-# Desaf-o_Datos_Elizabeth_Costa_Rica
+# Desafio_Datos_Elizabeth_Costa_Rica
 #2 Chanllenge Telecom X 
 # 📊 Análisis de Evasión de Clientes - Telecom X
 
